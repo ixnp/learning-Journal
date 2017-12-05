@@ -1,0 +1,1 @@
+A lot of this was review for me but I'm learning to work with people better. Also to read all the versions of the read me, and to do so thoughtfully and carefully because I missed a major thing from the first lab. 
