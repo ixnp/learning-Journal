@@ -1,0 +1,2 @@
+1/8
+	This week I really started to get a grasp on higher order and arrow functions. I'm able to make successful rest calls to a local server but I'm struggling with the Heroku stuff. I'm not sure how we are supposed to connect our server and client side when they are in two different repositories. I'm surprised the UI2 challenge wasn't easier for me, I had to download rube and do some installs that just weren't working. Was also sick with the flue and spent a lot of the week trying to catch up and in a fog. 
